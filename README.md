@@ -1,5 +1,5 @@
 <h1 align="center">
-  Rocket.sect 🔐
+  Rocket.sect 🔒
 </h1>
 
 <p align="center">
